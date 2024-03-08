@@ -7,69 +7,69 @@ This repository contains my solutions for the exercises in the Rank02 exam at 42
 
 ## Contents
 ### LEVEL 01
-- **Exercise 1:** [Description](first_word) - Solution
-- **Exercise 2:** [Description](fizzbuzz) - Solution
-- **Exercise 3:** [Description](ft_strcpy) - Solution
-- **Exercise 4:** [Description](ft_strlen) - Solution
-- **Exercise 5:** [Description](ft_swap) - Solution
-- **Exercise 6:** [Description](putstr) - Solution
-- **Exercise 7:** [Description](repeat_alpha) - Solution
-- **Exercise 8:** [Description](rev_print) - Solution
-- **Exercise 9:** [Description](rot_13) - Solution
-- **Exercise 10:** [Description](rotone) - Solution
-- **Exercise 11:** [Description](search_and_replace) - Solution
-- **Exercise 12:** [Description](ulstr) - Solution
+- **Exercise 1:** [first_word](first_word) - Solution
+- **Exercise 2:** [fizzbuzz](fizzbuzz) - Solution
+- **Exercise 3:** [ft_strcpy](ft_strcpy) - Solution
+- **Exercise 4:** [ft_strlen](ft_strlen) - Solution
+- **Exercise 5:** [ft_swap](ft_swap) - Solution
+- **Exercise 6:** [putstr](putstr) - Solution
+- **Exercise 7:** [repeat_alpha](repeat_alpha) - Solution
+- **Exercise 8:** [rev_print](rev_print) - Solution
+- **Exercise 9:** [rot_13](rot_13) - Solution
+- **Exercise 10:** [rotone](rotone) - Solution
+- **Exercise 11:** [search_and_replace](search_and_replace) - Solution
+- **Exercise 12:** [ulstr](ulstr) - Solution
 
 ### LEVEL 02
-- **Exercise 1:** [Description](alpha_mirror) - Solution
-- **Exercise 2:** [Description](camel_to_snake) - Solution
-- **Exercise 3:** [Description](do_op) - Solution
-- **Exercise 4:** [Description](ft_atoi) - Solution
-- **Exercise 5:** [Description](ft_strcmp) - Solution
-- **Exercise 6:** [Description](ft_strcspn) - Solution
-- **Exercise 7:** [Description](ft_strdup) - Solution
-- **Exercise 8:** [Description](ft_strpbrk) - Solution
-- **Exercise 9:** [Description](ft_strrev) - Solution
-- **Exercise 10:** [Description](ft_strspn) - Solution
-- **Exercise 11:** [Description](inter) - Solution
-- **Exercise 12:** [Description](is_power_of_2) - Solution
-- **Exercise 13:** [Description](last_word) - Solution
-- **Exercise 14:** [Description](max) - Solution
-- **Exercise 15:** [Description](print_bits) - Solution
-- **Exercise 16:** [Description](reverse_bits) - Solution
-- **Exercise 17:** [Description](snake_to_camel) - Solution
-- **Exercise 18:** [Description](swap_bits) - Solution
-- **Exercise 19:** [Description](union) - Solution
-- **Exercise 20:** [Description](wdmatch) - Solution
+- **Exercise 1:** [alpha_mirror](alpha_mirror) - Solution
+- **Exercise 2:** [camel_to_snake](camel_to_snake) - Solution
+- **Exercise 3:** [do_op](do_op) - Solution
+- **Exercise 4:** [ft_atoi](ft_atoi) - Solution
+- **Exercise 5:** [ft_strcmp](ft_strcmp) - Solution
+- **Exercise 6:** [ft_strcspn](ft_strcspn) - Solution
+- **Exercise 7:** [ft_strdup](ft_strdup) - Solution
+- **Exercise 8:** [ft_strpbrk](ft_strpbrk) - Solution
+- **Exercise 9:** [ft_strrev](ft_strrev) - Solution
+- **Exercise 10:** [ft_strspn](ft_strspn) - Solution
+- **Exercise 11:** [inter](inter) - Solution
+- **Exercise 12:** [is_power_of_2](is_power_of_2) - Solution
+- **Exercise 13:** [last_word](last_word) - Solution
+- **Exercise 14:** [max](max) - Solution
+- **Exercise 15:** [print_bits](print_bits) - Solution
+- **Exercise 16:** [reverse_bits](reverse_bits) - Solution
+- **Exercise 17:** [snake_to_camel](snake_to_camel) - Solution
+- **Exercise 18:** [swap_bits](swap_bits) - Solution
+- **Exercise 19:** [union](union) - Solution
+- **Exercise 20:** [wdmatch](wdmatch) - Solution
 
 ### LEVEL 03
-- **Exercise 1:** [Description](add_prime_sum) - Solution
-- **Exercise 2:** [Description](epur_str) - Solution
-- **Exercise 3:** [Description](expand_str) - Solution
-- **Exercise 4:** [Description](ft_atoi_base) - Solution
-- **Exercise 5:** [Description](ft_list_size) - Solution
-- **Exercise 6:** [Description](ft_range) - Solution
-- **Exercise 7:** [Description](ft_rrange) - Solution
-- **Exercise 8:** [Description](hidenp) - Solution
-- **Exercise 9:** [Description](lcm) - Solution
-- **Exercise 10:** [Description](paramsum) - Solution
-- **Exercise 11:** [Description](pgcd) - Solution
-- **Exercise 12:** [Description](print_hex) - Solution
-- **Exercise 13:** [Description](rstr_capitalizer) - Solution
-- **Exercise 14:** [Description](str_capitalizer) - Solution
-- **Exercise 15:** [Description](tab_mult) - Solution
+- **Exercise 1:** [add_prime_sum](add_prime_sum) - Solution
+- **Exercise 2:** [epur_str](epur_str) - Solution
+- **Exercise 3:** [expand_str](expand_str) - Solution
+- **Exercise 4:** [ft_atoi_base](ft_atoi_base) - Solution
+- **Exercise 5:** [ft_list_size](ft_list_size) - Solution
+- **Exercise 6:** [ft_range](ft_range) - Solution
+- **Exercise 7:** [ft_rrange](ft_rrange) - Solution
+- **Exercise 8:** [hidenp](hidenp) - Solution
+- **Exercise 9:** [lcm](lcm) - Solution
+- **Exercise 10:** [paramsum](paramsum) - Solution
+- **Exercise 11:** [pgcd](pgcd) - Solution
+- **Exercise 12:** [print_hex](print_hex) - Solution
+- **Exercise 13:** [rstr_capitalizer](rstr_capitalizer) - Solution
+- **Exercise 14:** [str_capitalizer](str_capitalizer) - Solution
+- **Exercise 15:** [tab_mult](tab_mult) - Solution
 
 ### LEVEL 04
-- **Exercise 1:** [Description](flood_fill) - Solution
-- **Exercise 2:** [Description](fprime) - Solution
-- **Exercise 3:** [Description](ft_itoa) - Solution
-- **Exercise 4:** [Description](ft_list_foreach) - Solution
-- **Exercise 5:** [Description](ft_list_remove_if) - Solution
-- **Exercise 6:** [Description](ft_split) - Solution
-- **Exercise 7:** [Description](rev_wstr) - Solution
-- **Exercise 8:** [Description](rostring) - Solution
-- **Exercise 9:** [Description](sort_int_tab) - Solution
-- **Exercise 10:** [Description](sort_list) - Solution
+- **Exercise 1:** [flood_fill](flood_fill) - Solution
+- **Exercise 2:** [fprime](fprime) - Solution
+- **Exercise 3:** [ft_itoa](ft_itoa) - Solution
+- **Exercise 4:** [ft_list_foreach](ft_list_foreach) - Solution
+- **Exercise 5:** [ft_list_remove_if](ft_list_remove_if) - Solution
+- **Exercise 6:** [ft_split](ft_split) - Solution
+- **Exercise 7:** [rev_wstr](rev_wstr) - Solution
+- **Exercise 8:** [rostring](rostring) - Solution
+- **Exercise 9:** [sort_int_tab](sort_int_tab) - Solution
+- **Exercise 10:** [sort_list](sort_list) - Solution
 
 
 ## Usage
