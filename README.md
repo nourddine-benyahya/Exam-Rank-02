@@ -75,10 +75,10 @@ This repository contains my solutions for the exercises in the Rank02 exam at 42
 ## Usage
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the solutions.
-3. Open each exercise file (`exercise1.md`, `exercise2.md`, etc.) to view the description and solution.
+3. Open each exercise file (`exercise1.c`, `exercise2.c`, etc.) to compaile file and test it.
 
 ## Disclaimer
 These solutions are provided for learning and reference purposes only. Copying these solutions directly for submission to exams or assignments is strictly prohibited and may lead to academic penalties. Please use these solutions responsibly and adhere to your institution's academic integrity policies.
 
 ## Author
-[Your Name]
+[nbenyahy]
